@@ -32,7 +32,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['aivenproject-1.onrender.com']
 
-
 # Application definition
 
 INSTALLED_APPS = [
